@@ -27,7 +27,7 @@ This is a full-stack JavaScript application that uses OpenAI's GPT-3 model to ge
 ## 📝 Note 📝
 
 -   Remember to add your OpenAI API key in .env file of server folder.
--   This project is still under development. More features and improvements are coming soon!
+-   More features and improvements are coming soon!
 
 ## 📮 Feedback 📮
 
